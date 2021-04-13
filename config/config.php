@@ -1,5 +1,5 @@
 <?php
-define("DB_HOST", "localhost");
-define("DB_USER", "sani");
-define("DB_PASS", "asd");
-define("DB_NAME", "shop");
+define("DB_HOST", "Your hostname");
+define("DB_USER", "Your username");
+define("DB_PASS", "Your password");
+define("DB_NAME", "Your database name");
